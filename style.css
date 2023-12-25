@@ -509,7 +509,7 @@ body {
     -webkit-background-clip: unset;
     -moz-background-clip: unset;
     -webkit-text-fill-color: #FFFFFF;
-    border: none;
+    border-color: transparent;
 }
 
 .products .container .products-list .more {
