@@ -670,6 +670,7 @@ body {
     background: var(--1, linear-gradient(90deg, #75CCEB 0%, #6FB4FF 100%));
     border: none;
     outline: none;
+    cursor: pointer;
 }
 
 .best-price .container .right {
